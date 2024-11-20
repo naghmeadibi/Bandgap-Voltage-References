@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      user1
+HostName                       edahost
+ProcessIdentifier              28354
+ProcessCreationTime_UTC        1732109796
+ProcessCreationTime_Readable   Wed Nov 20 17:36:36 2024 +04
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/user1/env65lp/myLib/Bandgap_Conventional/schematic/sch.oa.cdslck.dirlck
+TimeEditLocked                 Wed Nov 20 17:38:27 2024 +04
